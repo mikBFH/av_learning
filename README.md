@@ -11,7 +11,7 @@ Through interviews with 31 commuters (including educators and automotive experts
 - **DR2: Context-Aware Content Delivery** — Vocabulary lessons adapt to landmarks along the route
 - **DR3: Multi-Modal Interaction** — Voice commands enable hands-free learning alongside touch controls and audio feedback
 
-## What the Prototype Does
+## Prototype
 
 The prototype is a context-aware language learning app designed for use in automated vehicles. It is still under active development. The current version demonstrates:
 
