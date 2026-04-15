@@ -1,0 +1,25 @@
+{
+  "name": "av-learning-prototype",
+  "version": "1.0.0",
+  "description": "AV-Based Learning Prototype - CHI 2026",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": [
+    "education",
+    "autonomous-vehicles",
+    "mobile-learning",
+    "chi2026"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
